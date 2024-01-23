@@ -35,7 +35,3 @@ Owner:- `0x9A9785ab60fCaeABe25F252d4f83Cdc9c208ce67`
 
 * Fork the repo from `dev` branch and make your changes.
 * Raise a PR for `dev` branch named as `feature/feature_name`
-
-----------
-
-Author: @amankr1279
